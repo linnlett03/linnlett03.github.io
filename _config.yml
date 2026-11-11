@@ -9,7 +9,7 @@ baseurl: ""
 repository: "linnlett03/linnlett03.github.io"
 
 author:
-  avatar: 
+   avatar: "picture.png.jpg" 
   name: "Linn Lett Mon Mon"
   pronouns: "she/her"
   bio: "Computer science student"
