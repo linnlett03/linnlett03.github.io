@@ -1,6 +1,6 @@
 locale: "en-US"
 site_theme: "mint"
-title: "Linn Lett Mon Mon | SW"
+title: "llmm_OSW"
 title_separator: "-"
 name: &name "Linn Lett Mon Mon"
 description: &description "Computer science student portfolio"
@@ -9,7 +9,7 @@ baseurl: ""
 repository: "linnlett03/linnlett03.github.io"
 
 author:
-  avatar: "picture.png.jpg"
+  avatar: 
   name: "Linn Lett Mon Mon"
   pronouns: "she/her"
   bio: "Computer science student"
