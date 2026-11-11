@@ -9,7 +9,7 @@ baseurl: ""
 repository: "linnlett03/linnlett03.github.io"
 
 author:
-   avatar: "picture.png.jpg" 
+  avatar: "picture.png.jpg"
   name: "Linn Lett Mon Mon"
   pronouns: "she/her"
   bio: "Computer science student"
@@ -17,7 +17,7 @@ author:
   employer: "Student"
   github: "linnlett03"
   instagram: "no_a0423_"
-
+  
 publication_category:
   books:
     title: "Books"
